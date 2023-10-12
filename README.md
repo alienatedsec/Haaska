@@ -4,6 +4,9 @@
 This repository contains scripts that help you set up a Haaska.
 Haaska is used to have alexa be able to communicate with all Home Assistant entities.
 
+## Installation Steps
+ - [ ] A step-by-step video covering the installation is available at the following address: https://www.youtube.com/watch?v=T_jnNsNvnco
+
 ## Prerequisites
 
  - [ ] Home Assistant Configuration: Ensure the following YAML entries
