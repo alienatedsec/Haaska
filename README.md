@@ -115,6 +115,7 @@ Haaska is used to have alexa be able to communicate with all Home Assistant enti
     - Restart Home Assistant
     
 7.  Finally, activate the skill through your Alexa app. Your Alexa device should now be able to interact with your Home Assistant.
+8.  If you ever modify the list of `include_entities` from point 6, restart your Home Assistant and follow with this command on your Alexa speaker: `Alexa, find new devices` 
     
 
 ## Notes
